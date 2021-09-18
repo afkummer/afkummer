@@ -1,10 +1,10 @@
 ### Hello there!
 
-My name is Alberto Kummer, 29 years old, and currently, a Ph.D. candidate at the [Federal University of Rio Grande do Sul](https://www.inf.ufrgs.br/ppgc/). Since my undergraduate in 2014, I'd been working with optimization problems such as vehicle scheduling, nurse scheduling. In my Ph.D., I study and propose algorithms for solving the so-called Home Health Care Problem. 
+My name is Alberto Kummer, 29 years old, and currently, a Ph.D. candidate at the [Federal University of Rio Grande do Sul](https://www.inf.ufrgs.br/ppgc/). Since my undergraduate in 2014, I'd been working with optimization problems such as [vehicle scheduling](https://www.sciencedirect.com/science/article/abs/pii/S0305054819301789), and [physician scheduling](https://link.springer.com/article/10.1007/s10479-020-03552-5). In my Ph.D., I study and propose algorithms for solving the so-called [Home Health Care Problem](https://dl.acm.org/doi/abs/10.1145/3377930.3390209). Most of my repositories contain experiments and data regarding my Ph.D. Still, there are also a few ones with some experiments with open-source optimization algorithms 📚🔍.
 
-Most of my repositories contain experiments and data regarding my Ph.D. Still, there are also a few ones with some experiments with open-source optimization algorithms. Yes, I am an open-source enthusiast, and I use Linux (KDE Neon) as my daily driver system. I also have some knowledge of how-to in Windows and macOS. 
+I am an open-source enthusiast, and I use Linux (KDE Neon 🐧) as my daily driver system. I also have some knowledge of how-to in Windows and macOS. As I usually say, I always try my best with what I have in my hands 💪. 
 
-Please see below the repositories containing my most recent works. If you are interested in something, please contact me at [alberto.kummer] at [gmail.com].
+Please see below the repositories containing my most recent works. If you are interested in something, please get in touch with at [alberto.kummer] at [gmail.com].
 
 <!--
 **afkummer/afkummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
