@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there!
+
+My name is Alberto Kummer, 29 years old, and currently, a Ph.D. candidate at the [Federal University of Rio Grande do Sul](https://www.inf.ufrgs.br/ppgc/). Since my undergraduate in 2014, I'd been working with optimization problems such as vehicle scheduling, nurse scheduling. In my Ph.D., I study and propose algorithms for solving the so-called Home Health Care Problem. 
+
+Most of my repositories contain experiments and data regarding my Ph.D. Still, there are also a few ones with some experiments with open-source optimization algorithms. Yes, I am an open-source enthusiast, and I use Linux (KDE Neon) as my daily driver system. I also have some knowledge of how-to in Windows and macOS. 
+
+Please see below the repositories containing my most recent works. If you are interested in something, please contact me at [alberto.kummer] at [gmail.com].
 
 <!--
 **afkummer/afkummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
